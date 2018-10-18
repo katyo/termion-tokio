@@ -1,0 +1,10 @@
+[package]
+name = "termion-tokio"
+version = "0.1.0"
+authors = ["Kayo Phoenix <kayo@illumium.org>"]
+
+[dependencies]
+bytes = "0.4"
+futures = "0.1"
+tokio = "0.1"
+termion = "1"
